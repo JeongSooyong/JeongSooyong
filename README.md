@@ -26,11 +26,9 @@
 <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
 
 
-
-
 </b>
 
-
+ps. 아직 스킬들이 완벽하지 않아 기초를 튼튼하게 다져나가는것이 가장 최우선적인 목표입니다.
 
 
 
