@@ -13,11 +13,7 @@
 
 <b>스킬 : <br>
 <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" alt="HTML5 Badge">
-
-
-<img alt="html" src="https://img.shields.io/badge/HTML5-#E34F26.svg?&style=for-the-badge&logo=HTML&logoColor=white">
-https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러}
+<img alt="html" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
 
 </b>
 
