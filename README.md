@@ -12,7 +12,7 @@
 
 
 <b>스킬 : 
-<img alt="html" src="https://img.shields.io/badge/__-HTML-black">
+<img alt="html" src="https://img.shields.io/badge/HTML-HTML-black">
 </b>
 
 
