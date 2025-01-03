@@ -18,6 +18,7 @@
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img alt="Java" src="https://img.shields.io/badge/Java-00?style=for-the-badge&logo=Java&logoColor=white">
+<img alt="Oracle" src="https://img.shields.io/badge/Oracle-11?style=for-the-badge&logo=Oracle&logoColor=white">
 
 
 </b>
