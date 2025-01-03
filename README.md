@@ -17,7 +17,7 @@
 </b>
 <img alt="Dynamic XML Badge" src="https://img.shields.io/badge/dynamic/xml">
 
-<img alt="그냥 메시지" src="https://img.shields.io/badge/just%20the%20message-8A2BE2">
+<img alt="html" src="https://img.shields.io/badge/html%20">
 
 
 
