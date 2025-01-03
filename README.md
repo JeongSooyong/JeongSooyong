@@ -17,7 +17,7 @@
 </b>
 <img alt="Dynamic XML Badge" src="https://img.shields.io/badge/dynamic/xml">
 
-<img alt="html" src="https://img.shields.io/badge/html%20">
+<img alt="ㅇㅇ" src="https://img.shields.io/badge/html%20">
 
 
 
