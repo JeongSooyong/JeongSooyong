@@ -12,4 +12,4 @@
 
 
 <br><br><br>
-첫 프로젝트 : 그룹웨어 GEO Project
+첫 프로젝트 : 그룹웨어 GEO Project https://github.com/chickenmin/GEO.git
