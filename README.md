@@ -12,4 +12,5 @@
 
 
 <br><br><br>
-첫 프로젝트 : [그룹웨어 GEO Project https://github.com/chickenmin/GEO.git](https://github.com/JeongSooyong/GEO-Project.git)
+첫번째 프로젝트 : [그룹웨어 GEO Project https://github.com/chickenmin/GEO.git](https://github.com/JeongSooyong/GEO-Project.git)
+두번째 프로젝트 : 
