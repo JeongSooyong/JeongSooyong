@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-  <h1>Spring, Java, Javascript, CSS, HTML, Oracle, MySQL, React, JPA, Docker, jQuery, Jenkins, Tomcat, MyBatis</h1>
+  <h5>Spring, Java, Javascript, CSS, HTML, Oracle, MySQL, React, JPA, Docker, jQuery, Jenkins, Tomcat, MyBatis</h1>
 
 
 <br><br><br>
