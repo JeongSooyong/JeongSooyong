@@ -1,5 +1,5 @@
 <h1 align="center">👋정수용의 깃허브</h1>
-<h3 align="center">경희사이버대학교 컴퓨터정보통신공학 2학년 2학기 재학중</h3>
+<h3 align="center">경희사이버대학교 컴퓨터정보통신공학 3학년 1학기 재학중</h3>
 
 - 📫 How to reach me **bcjsy@naver.com**
 
