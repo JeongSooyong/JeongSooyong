@@ -17,3 +17,5 @@
 두번째 프로젝트 : https://github.com/JeongSooyong/netflix_clone.git
 <br>
 파이썬 공부 : https://github.com/JeongSooyong/python-study
+<br>
+기상정보 토이프로젝트 : 
