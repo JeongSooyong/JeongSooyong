@@ -1,5 +1,5 @@
 <h1 align="center">👋정수용의 깃허브</h1>
-<h3 align="center">경희사이버대학교 컴퓨터정보통신공학 4학년 재학중</h3>
+<h3 align="center">경희사이버대학교 컴퓨터정보통신공학 졸업</h3>
 
 - 📫 How to reach me **bcjsy@naver.com**
 
@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-  <h5>Spring, Java, Javascript, CSS, HTML, Oracle, MySQL, React, JPA, Docker, jQuery, Jenkins, Tomcat, MyBatis</h1>
+  <h5>Spring, Java, Javascript, CSS, HTML, Python, Oracle, MySQL, React, Node.Js, JPA, Docker, jQuery, Jenkins, Tomcat, MyBatis</h1>
 
 
 <br><br><br>
