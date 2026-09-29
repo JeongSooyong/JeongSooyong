@@ -14,8 +14,6 @@
 <br><br><br>
 첫번째 프로젝트 : [그룹웨어 GEO Project https://github.com/chickenmin/GEO.git](https://github.com/JeongSooyong/GEO-Project.git)
 <br>
-두번째 프로젝트 : https://github.com/JeongSooyong/netflix_clone.git
-<br>
 기상정보 토이프로젝트 : https://github.com/JeongSooyong/weather-app
 <br>
 웹소켓을 이용한 간단한 토이프로젝트 : https://github.com/JeongSooyong/WebSocket  
