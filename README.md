@@ -16,8 +16,6 @@
 <br>
 두번째 프로젝트 : https://github.com/JeongSooyong/netflix_clone.git
 <br>
-파이썬 공부 : https://github.com/JeongSooyong/python-study
-<br>
 기상정보 토이프로젝트 : https://github.com/JeongSooyong/weather-app
 <br>
 웹소켓을 이용한 간단한 토이프로젝트 : https://github.com/JeongSooyong/WebSocket  
